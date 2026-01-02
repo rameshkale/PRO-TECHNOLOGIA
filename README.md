@@ -11,7 +11,7 @@ WE ARE THE INNOVATORS !!
 # MY TINKERCAD PROFILE  VISIT NOW : https://www.tinkercad.com/users/fMNoUeIIb3M?type=circuits
 
 
-# MY PROFILE LINK VISIT NOW!
+# MY PROJECT LINK VISIT NOW!
 
 #### https://www.tinkercad.com/things/3Jkh4StUgOD-led-blinking-project/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard
 
