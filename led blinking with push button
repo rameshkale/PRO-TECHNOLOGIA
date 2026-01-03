@@ -1,0 +1,26 @@
+# 📌 Overview
+
+This beginner Arduino project shows how a push button can control an LED.
+When the button is pressed, the LED blinks. When released, the LED turns OFF.
+
+# 🎯 What You Learn
+
+Using a push button as input
+
+Controlling an LED as output
+
+Basics of digitalRead() and digitalWrite()
+
+Simple decision logic (if–else)
+
+# 🧰 Components
+
+Arduino Uno
+
+LED + 220Ω resistor
+
+Push button
+
+Breadboard & jumper wires
+
+(Can be tested safely in Tinkercad)
